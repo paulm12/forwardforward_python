@@ -1,6 +1,7 @@
 # forwardforward_python
 Python translation of Hinton's "ForwardForward" algorithm. Gets 99%+ accuracy.
-All you need is Python (I'm using an iPython kernel) and Numpy
+All you need is Python (I'm using an iPython kernel) and Numpy.
+
 Requirements:
 * Python (3+ Recommended)
 * Numpy
